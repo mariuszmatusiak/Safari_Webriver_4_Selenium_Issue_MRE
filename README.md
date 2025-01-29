@@ -1,4 +1,4 @@
-# Safari Webriver 4 Selenium - Issue MRE
+# Safari Webdriver 4 Selenium - Issue MRE
 
 Minimum reproducible example for Safari WebDriver issue in Selenium Python code.
 
