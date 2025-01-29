@@ -1,0 +1,22 @@
+[
+    {
+        "expiry": 1765835934,
+        "secure": true,
+        "domain": ".examplecookiedomain.com",
+        "httpOnly": true,
+        "value": "0xdeadbeef",
+        "path": "/",
+        "sameSite": "None",
+        "name": "domaincookie"
+    }, 
+    {
+        "expiry": 1765835934,
+        "secure": true,
+        "domain": ".examplecookiedomain.com",
+        "httpOnly": true,
+        "value": "0xdeadbeef2",
+        "path": "/",
+        "sameSite": "None",
+        "name": "domaincookie2"
+    }
+]
